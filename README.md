@@ -1,3 +1,19 @@
+# Create project
+1. `ng new ngpage --create-application=true`
+2. `npm start`
+3. Creating repo in Github manually, link the repo
+    -  `git remote add origin https://github.com/ycheng22/ngpage.git`
+    - `git push -u origin master`
+4. `ng add angular-cli-ghpages`
+5. `ng deploy --base-href=/ngpage/ --repo=https://github.com/ycheng22/ngpage.git`
+6. Web link:　https://ycheng22.github.io/ngpage/
+
+
+
+
+<details>
+    <summary>Ng Doc</summary>
+    
 # Ngpage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
@@ -25,3 +41,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+</details>
+
+
