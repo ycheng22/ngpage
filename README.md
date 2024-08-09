@@ -7,9 +7,13 @@
 4. `ng add angular-cli-ghpages`
 5. `ng deploy --base-href=/ngpage/ --repo=https://github.com/ycheng22/ngpage.git`
 6. Web link:　https://ycheng22.github.io/ngpage/
+7. Adding Tailwind: https://tailwindcss.com/docs/guides/angular
+8. 
 
 
-
+# Quick links
+- Angular: https://v17.angular.io/docs
+- 
 
 <details>
     <summary>Ng Doc</summary>
