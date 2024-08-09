@@ -14,6 +14,12 @@
 - PR to master branch
 - Deploy from master branch
 
+# Markdown
+- https://www.npmjs.com/package/ngx-markdown
+- https://jfcere.github.io/ngx-markdown/get-started
+- https://stackblitz.com/edit/ngx-markdown?file=src%2Fapp%2Fapp.component.ts
+- https://medium.com/@scientist.sayantan/angular-17-with-a-standalone-component-with-ngx-markdown-with-scss-8703d2ceaf18
+
 
 # Quick links
 - Angular: https://v17.angular.io/docs
