@@ -1,0 +1,20 @@
+.nav-item {
+
+  @apply flex flex-row items-center text-black font-medium text-lg;
+
+  .material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 22px;
+    transition: transform 0.1s;
+    color: rgb(176, 179, 182);
+  }
+
+  &:hover {
+    @apply text-blue-500 cursor-pointer;
+    .material-icons {
+      color: rgb(59 130 246);
+    }
+  }
+}
